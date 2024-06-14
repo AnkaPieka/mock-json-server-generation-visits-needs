@@ -1,0 +1,50 @@
+{
+    "2024-05-01": {
+        "PSE": {
+            "total_visit": 20,
+            "psy_classic_recrut": 2,
+            "psy_classic_recours": 3,
+            "psy_classic_ren": 5,
+            "psy_classic_bms": 10
+        },
+        "PSL": {
+            "total_visit": 30,
+            "psy_classic_recrut": 2,
+            "psy_classic_recours": 3,
+            "psy_classic_ren": 10,
+            "psy_classic_bms": 15
+        }
+    },
+    "2024-06-01": {
+        "PSE": {
+            "total_visit": 10,
+            "psy_classic_recrut": 2,
+            "psy_classic_recours": 3,
+            "psy_classic_ren": 4,
+            "psy_classic_bms": 1
+        },
+        "STR": {
+            "total_visit": 10,
+            "psy_classic_recrut": 2,
+            "psy_classic_recours": 3,
+            "psy_classic_ren": 4,
+            "psy_classic_bms": 1
+        }
+    },
+    "2024-07-01": {
+        "PSE": {
+            "total_visit": 5,
+            "psy_classic_recrut": 2,
+            "psy_classic_recours": 3,
+            "psy_classic_ren": 0,
+            "psy_classic_bms": 0
+        },
+        "STR": {
+            "total_visit": 5,
+            "psy_classic_recrut": 2,
+            "psy_classic_recours": 3,
+            "psy_classic_ren": 0,
+            "psy_classic_bms": 0
+        }
+    }
+}
