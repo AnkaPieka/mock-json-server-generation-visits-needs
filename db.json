@@ -1,5 +1,5 @@
 {
-    "default-capacity" {
+    "default-capacity": {
         "default": {
             "15602": 5,
             "15601": 5,
